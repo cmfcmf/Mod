@@ -582,3 +582,15 @@ a img{
 .embed-responsive-16by9 {
     padding-bottom: 56.25%;
 }
+
+.worship-the-unicorn {
+  background-image: url(ok_version.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+
+  height: 600px;
+  max-width: 1044px;
+  margin-left: auto;
+  margin-right: auto;
+}
